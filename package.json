@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "broadway": "~3.1.1",
-    "eventemitter2": "~2.2.0",
+    "eventemitter2": "~2.2.2",
     "request": "2.x.x",
     "vows": "~0.8.1"
   },
